@@ -7,5 +7,5 @@ inport { Component } from '@agular/core'
         <div> item List</div>
     `
 })
-
+ 
 export class ItemsListComponent{ }
